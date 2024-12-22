@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="8205cd84-4d3b-4279-9417-6248b8c56d65" name="更改" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/readme.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/readme.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resultImage/XML5.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resultImage/validate.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/GenerateStudentGrades.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/XMLFilter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/XMLValidate.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/xmls/xml1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/xmls/xml2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/xmls/xml3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/xmls/xml4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/xmls/xml5.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/xsds/XML3ToXML4.xslt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/xsds/courseReport.xsd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/xsds/present.xsd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/xsds/studentGrades.xsd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/xsds/studentMessage.xsd" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 4
+}</component>
+  <component name="ProjectId" id="2qZyR53KEpZ6umUt823cxUpC14K" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;XSLT.XML3ToXML4.xslt.executor&quot;: &quot;Run&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;F:/grade3_LEARNING/face2service/Assignment1&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;模块&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;Settings.Markdown&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;,
+    &quot;应用程序.GenerateStudentGrades.executor&quot;: &quot;Run&quot;,
+    &quot;应用程序.XMLFilter.executor&quot;: &quot;Run&quot;,
+    &quot;应用程序.XMLValidate.executor&quot;: &quot;Run&quot;,
+    &quot;应用程序.xmlTest.executor&quot;: &quot;Run&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="ImportExportFile.TargetDir.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="XML3ToXML4.xslt" type="XSLT" factoryName="XSLT">
+      <option name="myOutputFile" value="F:\grade3_LEARNING\face2service\Assignment1\src\main\xmls\xml4" />
+      <option name="myOpenOutputFile" value="false" />
+      <option name="myOpenInBrowser" value="false" />
+      <option name="mySmartErrorHandling" value="true" />
+      <option name="myRunnerPort" value="34873" />
+      <option name="myVmArguments" value="" />
+      <option name="myWorkingDirectory" value="" />
+      <option name="myModule" />
+      <option name="myJdk" />
+      <XsltFile url="file://$PROJECT_DIR$/src/main/xsds/XML3ToXML4.xslt" />
+      <XmlFile url="file://$PROJECT_DIR$/src/main/xmls/xml3.xml" />
+      <parameters />
+      <OutputType value="CONSOLE" save-to-file="true" />
+      <FileType name="XML" />
+      <JdkChoice value="FROM_MODULE" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="应用程序级" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="默认任务">
+      <changelist id="8205cd84-4d3b-4279-9417-6248b8c56d65" name="更改" comment="" />
+      <created>1734884383802</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1734884383802</updated>
+      <workItem from="1734884384848" duration="1663000" />
+      <workItem from="1734886097229" duration="3659000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>

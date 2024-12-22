@@ -1,0 +1,8 @@
+<attendance:attendance xmlns:attendance="http://www.example.com/attendance">
+    <studentId>NJU0130</studentId>
+    <name>陈泓宇</name>
+    <gender>男</gender>
+    <class>Class3</class>
+    <status>present</status>
+    <timestamp>2024-12-01T09:00:00</timestamp>
+</attendance:attendance>

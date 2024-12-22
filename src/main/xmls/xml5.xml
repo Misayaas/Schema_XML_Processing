@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+<course>
+Course1
+
+NJU0130        陈泓宇        51
+NJU5130        STUDENT5        44
+NJU6130        STUDENT6        35
+NJU9130        STUDENT9        52
+</course>
+<course>
+Course4
+
+NJU0130        陈泓宇        47
+NJU2130        STUDENT2        38
+NJU4130        STUDENT4        21
+NJU8130        STUDENT8        49
+NJU9130        STUDENT9        54
+NJU10130        STUDENT10        58
+</course>
+<course>
+Course3
+
+NJU0130        陈泓宇        22
+NJU3130        STUDENT3        43
+NJU4130        STUDENT4        50
+NJU5130        STUDENT5        42
+NJU9130        STUDENT9        42
+NJU10130        STUDENT10        47
+</course>
+<course>
+Course5
+
+NJU0130        陈泓宇        29
+NJU6130        STUDENT6        19
+NJU7130        STUDENT7        53
+NJU8130        STUDENT8        38
+NJU9130        STUDENT9        14
+</course>
+<course>
+Course2
+
+NJU0130        陈泓宇        39
+NJU2130        STUDENT2        56
+NJU3130        STUDENT3        29
+NJU5130        STUDENT5        43
+NJU6130        STUDENT6        32
+NJU7130        STUDENT7        55
+NJU9130        STUDENT9        7
+NJU10130        STUDENT10        32
+</course>
+</courses>

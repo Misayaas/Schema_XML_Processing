@@ -1,0 +1,14 @@
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema" targetNamespace="http://www.example.com/student" xmlns:student="http://www.example.com/student">
+    <xs:element name="student">
+        <xs:complexType>
+            <xs:sequence>
+                <xs:element name="studentId" type="xs:string"/>
+                <xs:element name="name" type="xs:string"/>
+                <xs:element name="gender" type="xs:string"/>
+                <xs:element name="birth" type="xs:date"/>
+                <xs:element name="grade" type="xs:string"/>
+                <xs:element name="class" type="xs:string"/>
+            </xs:sequence>
+        </xs:complexType>
+    </xs:element>
+</xs:schema>

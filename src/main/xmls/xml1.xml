@@ -1,0 +1,8 @@
+<student:student xmlns:student="http://www.example.com/student">
+    <studentId>NJU0130</studentId>
+    <name>陈泓宇</name>
+    <gender>男</gender>
+    <birth>2004-01-01</birth>
+    <grade>2022</grade>
+    <class>class3</class>
+</student:student>
